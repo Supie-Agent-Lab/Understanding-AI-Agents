@@ -87,7 +87,7 @@ Then what are the "theorems" for our agent world?
 
 PolyCLI is a unified Python interface for orchestrating AI agents that solves the fundamental problems preventing multi-agent systems from working in production. Here's how PolyCLI's innovations address these challenges:
 
-![[Pasted image 20250827225030.png]]
+![](Pasted image 20250827225030.png)
 
 ### Solution 1: Time-Travel Debugging with Cache-Bound Side Effects
 PolyCLI introduces deterministic replay through comprehensive caching. Every LLM call is cached with its complete state transformation. This creates a "Jupyter notebook style" experience for agent system live coding - you can jump to any checkpoint, modify code, and re-run from that point with instant cache hits for unchanged operations.
