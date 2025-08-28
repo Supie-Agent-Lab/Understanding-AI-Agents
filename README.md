@@ -1,3 +1,5 @@
+[中文 AI 翻译版](README_zh.md)
+
 # The Story of PolyCLI
 
 ## Why Multi-Agent?
