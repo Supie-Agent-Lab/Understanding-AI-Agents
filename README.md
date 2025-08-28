@@ -136,4 +136,5 @@ What about prompt auto-optimization on a dynamic SP-graph?
 ---
 
 [1] Huang, Y., & Yang, L. F. (2025). Gemini 2.5 Pro Capable of Winning Gold at IMO 2025. arXiv preprint arXiv:2507.15855.
+
 [2] https://decodingml.substack.com/p/stop-building-ai-agents
